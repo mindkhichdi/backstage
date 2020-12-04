@@ -1,5 +1,13 @@
 # @backstage/plugin-circleci
 
+## 0.2.4
+
+### Patch Changes
+
+- 04efbbdd2: Refactor to support ADR004 module exporting.
+
+  For more information, see https://backstage.io/docs/architecture-decisions/adrs-adr004.
+
 ## 0.2.3
 
 ### Patch Changes
